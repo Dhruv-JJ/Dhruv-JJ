@@ -2,8 +2,9 @@
 
 ### MLOPs | Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-JJ&label=Profile views&color=0e75b6&style=flat" alt="Dhruv-JJ" /> </p>
-
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDhruv-JJ&count_bg=%2379C0FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="Profile Views" />
+</p>
 - 👯 I'm looking to collaborate on **open source projects**
 
 - 📫 How to reach me **joysardhruv@gmail.com**
